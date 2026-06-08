@@ -172,6 +172,7 @@ If you see something missing - please submit a PR 🙏
 
 - [Solguard](https://www.solguard.io/) - enter the NFT mint to find out if it's part of a real collection or fake.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for verifying AI agent wallet identity and trust scores on Solana. Useful for NFT marketplaces and platforms that need to verify bots and agents. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## 🤖 NFT Marketplace Bots
 
 - [MonkeDAO Twitter Bot](https://github.com/MonkeDAO/observer)
